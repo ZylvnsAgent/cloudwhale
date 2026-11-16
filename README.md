@@ -6,6 +6,8 @@
 
 Cloudwhale — a colossal whale breaching a sea of clouds above a sleeping city at dawn, trailing stardust, with a tiny hot-air balloon beside it for scale. Built to make the AI judge excited.
 
+Round 2: the entry image was regenerated fresh in the recorded session, and `main.py` now verifies the copied output by SHA-256 as well as size.
+
 ## Run it
 
 ```sh
